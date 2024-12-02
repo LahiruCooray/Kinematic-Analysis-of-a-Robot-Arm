@@ -2,7 +2,7 @@
 
 Servo servo1, servo2, servo3;
 
-// Input beta angles
+// Input beta angles(from inverse kinematics)
 float beta1 = 45;  // Replace with actual input value
 float beta2 = 60;  // Replace with actual input value
 float beta3 = -30; // Replace with actual input value
